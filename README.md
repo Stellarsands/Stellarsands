@@ -1,15 +1,15 @@
 
-<!-- Pastel Banner with Typing SVG -->
+<!-- Pink Pastel Banner with Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&pause=1000&color=B28DFF&center=true&vCenter=true&multiline=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandhya+Senthil+Kumar!;CSBS+Undergrad+%7C+Full+Stack+Dev+%7C+UI%2FUX+Designer;Hackathon+Finalist+%7C+Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandhya+Senthil+Kumar!;CSBS+Undergrad+%7C+Full+Stack+Dev+%7C+UI%2FUX+Designer;Hackathon+Finalist+%7C+Creative+Technologist" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-FFD3E2?style=flat-square&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Student-B.Tech%20CSBS-FFDDC1?style=flat-square&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev%20%7C%20Design-B0E3FF?style=flat-square&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-FADADD?style=flat-square&logo=google-maps&logoColor=black" />
+  <img src="https://img.shields.io/badge/Student-B.Tech%20CSBS-F9C6D1?style=flat-square&logo=bookstack&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev%20%7C%20Design-FAD0C9?style=flat-square&logo=code&logoColor=black" />
 </p>
 
 ---
@@ -64,9 +64,9 @@
 ## 💌 Connect With Me
 
 <p align="center">
-  <a href="mailto:sandhyas.csbs2023@citchennai.net"><img src="https://img.shields.io/badge/Email-Me-FFD3E2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sandhya-s-"><img src="https://img.shields.io/badge/LinkedIn-Connect-FFABAB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Stellarsands"><img src="https://img.shields.io/badge/GitHub-Stellarsands-B0E3FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sandhyas.csbs2023@citchennai.net"><img src="https://img.shields.io/badge/Email-Me-FADADD?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/sandhya-s-"><img src="https://img.shields.io/badge/LinkedIn-Connect-F9C6D1?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="https://github.com/Stellarsands"><img src="https://img.shields.io/badge/GitHub-Stellarsands-FAD0C9?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
 ---
@@ -74,5 +74,5 @@
 <p align="center"><i>“Designing with intuition, coding with clarity, and solving with empathy.”</i></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stellarsands&show_icons=true&theme=buefy&bg_color=FFFCF9&title_color=FFB3C6&icon_color=FF69B4&text_color=4A4A4A" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stellarsands&show_icons=true&theme=graywhite&bg_color=FDF1F3&title_color=FF69B4&icon_color=FF69B4&text_color=4A4A4A" />
 </p>
