@@ -74,5 +74,5 @@
 <p align="center"><i>“Designing with intuition, coding with clarity, and solving with empathy.”</i></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stellarsands&show_icons=true&theme=graywhite&bg_color=FDF1F3&title_color=FF69B4&icon_color=FF69B4&text_color=4A4A4A" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Stellarsands&show_icons=true&count_private=true&cache_seconds=60&theme=graywhite&bg_color=FDF1F3&title_color=FF69B4&icon_color=FF69B4&text_color=4A4A4A" />
 </p>
