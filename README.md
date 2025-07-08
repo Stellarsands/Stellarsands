@@ -34,11 +34,11 @@
 
 ## 🌿 Projects That Represent Me
 
-- 🔒 **NammaRoute** – Smart mobility & women safety app (React Native + MongoDB)  
-- 🌱 **FarmConnect** – Fair and direct produce marketplace (Node.js + Firebase)  
-- 🏫 **CampusVoice** – Complaint tracking for student issues (Flutter + Firebase)  
-- 🎯 **Placify** – A student–industry engagement platform  
-- 📊 **HR Dashboard** – Interactive BI dashboard for workforce insights
+- 🔒 **[NammaRoute](https://github.com/Stellarsands/NammaRoute)** – Smart mobility & women safety app (React Native + MongoDB)  
+- 🌱 **[FarmConnect](https://github.com/Stellarsands/farmconnect)** – Fair and direct produce marketplace (Node.js + Firebase)  
+- 🏫 **[CampusVoice](https://github.com/Stellarsands/CampusVoice)** – Complaint tracking for student issues (Flutter + Firebase)  
+- 🎯 **[Placify](https://github.com/Stellarsands)** – A student–industry engagement platform  
+- 📊 **[Personal Expense Tracker](https://github.com/Stellarsands/PersonalExpenseTracker)** – A minimal financial tracker with clean design
 
 ---
 
