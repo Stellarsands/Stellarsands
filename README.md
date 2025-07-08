@@ -1,7 +1,7 @@
 
 <!-- Pink Pastel Banner with Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandhya+Senthil+Kumar!;CSBS+Undergrad+%7C+Full+Stack+Dev+%7C+UI%2FUX+Designer;Hackathon+Finalist+%7C+Creative+Technologist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&pause=1000&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=Hello +%F0%9F%91%8B%2C+I'm+Sandhya+Senthil+Kumar!;CSBS+Undergrad+%7C+Full+Stack+Dev+%7C+UI%2FUX+Designer;Hackathon+Finalist+%7C+Creative+Technologist" alt="Typing SVG" />
 </p>
 
 ---
